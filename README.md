@@ -1,4 +1,4 @@
-# KMU Brain TabNet
+# KMU Brain TabNet (3등 수상)
 
 KMU Brain 프로젝트에서 TabNet 기반 tabular classification 실험을 수행한 노트북 저장소입니다.
 
